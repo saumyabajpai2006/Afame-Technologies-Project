@@ -1,2 +1,4 @@
 # projectpowerbi
-power bi project file
+Afame Technologies Project
+HR Data Analysis
+Sales Data Analysis
