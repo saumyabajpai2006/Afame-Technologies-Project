@@ -1,4 +1,3 @@
-# projectpowerbi
-Afame Technologies Project
-HR Data Analysis
+# Afame Technologies project powerbi
+HR Data Analysis,
 Sales Data Analysis
